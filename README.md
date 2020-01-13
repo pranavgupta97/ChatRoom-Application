@@ -8,6 +8,8 @@ server and a client.
 ## Technologies
 * Maven
 * Spring Boot
+* Thymeleaf
+* JavaScript
 
 ## How to run the application
 You can run the application using the following command:
