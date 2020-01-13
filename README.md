@@ -1,21 +1,14 @@
 # Chat Room
-Complete the chat room application implementation using WebSocket.
+A real-time chat application using WebSocket and Spring Boot.
 
 ## Background
 WebSocket is a communication protocol that makes it possible to establish a two-way communication channel between a
 server and a client.
 
-## Instruction
-### Implement the message model
-Message model is the message payload that will be exchanged between the client and the server. Implement the Message
-class in chat module. Make sure you cover all there basic actions.
-1. ENTER
-2. CHAT
-3. LEAVE
+## Technologies
+* Maven
+* Spring Boot
 
-### Complete WebSocketChatServer
-Implement all TODOs inside WebSocketChatServer follow each method description.
-
-### Run the application with command
-mvn build; mvn spring-boot:run
-
+## How to run the application
+You can run the application using the following command:
+`mvn spring-boot:run`
